@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1652912040 source:c:\users\omnia\downloads\assignment 2 data structure\problem 6\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+
